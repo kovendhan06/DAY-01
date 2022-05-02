@@ -1,0 +1,46 @@
+                                                        Static and Dynamic Type Languaes
+
+                  In that  following conditions we can discussed about the differance between the static and dynamic type languaes
+           
+     Statically typed Languages:
+                  
+                     A languaes is statically typed if the variable is known at compile time. for some languaes this means that you as
+                        the programmer must specify what type each variable is other languaes.
+                        (e.g: Java ,c, c++)
+
+                    offer some form of type inference the capability of the type system to deduce the type of a variable(e.g:ocmal,Haskeel.Scala ,kotlin)
+                 
+                     The main advantages here is that all kinds of checking can be done by the compiler and therefore a lot of trivial bugs are caught at
+                     a very early stage....
+                     
+                     statically typed programming  languaes do type checking(i.e the process of verifying and enfarcing the constraint of types) at
+                     compile-time as oppesed to runtime.
+
+
+                     Examples:
+                              c,c++,Java,Rust,Go ,Scala.. 
+
+
+     Dynamically typed Languaes:
+
+                      This means that you a programmer can write a little quicker because you do not have to specify types every time.
+                      (unless using a statically -typed languaes with type inferance)...
+                   
+                     Examples:
+                               Perl,Ruby,Python,Php,Javascript,Erlang..
+
+
+
+
+                       Most scripting Languaes have this feature as there is no compiler to static type-checking anyway but you may find yourself
+                       searching for a bug that is due to the interpreter misinterpreating the type of a variable..
+                       Luckily scripts tend to be small so bugs have not so many places to hide.. 
+                       
+
+                       Dynamically typed the programming languaes do the checking at run-time as opposed to compile time.
+
+
+
+
+
+

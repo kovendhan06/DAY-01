@@ -1,0 +1,27 @@
+                                                Scripted Languaes
+        
+            Scripting Languaes are  interpreted within another program Javascript is embeeded within a browser and interpreted by that browser..
+          
+
+            Example of Scripting Languaes:
+
+
+                     1.Java Script
+                     2.Perl
+                     3.Python
+
+
+          Advantages of Scripting lanuages:
+
+                     1.simple - scripting languaes are  easier to write than programming Languaes.
+                     2.Few lines of code(loc)..
+          
+          Programming Languaes:
+                  
+                     Programming Languaes like Java are compiled and not interpreted by another application in the same way...
+        
+          Example Programming languaes:
+                   
+                     1.c
+                     2.C++ and
+                     3.Java

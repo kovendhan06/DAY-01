@@ -1,0 +1,92 @@
+                                     Programming Paradigm
+
+                     A programming paradigm is a style or "way" of programming..
+         some languaes make it easy to write in some paradigms but not others..
+
+       Some common Paradigms:
+
+             you should know these:
+        
+        Improative:
+                   Programming with an explicit sequence of commands that update state.
+     
+
+        Declarative:
+                  
+                   Programming by specifying the result you want no how to get it.
+
+
+        Structured:
+                  
+                  Progamming with clean goto free nested control structes.
+      
+
+        Procedural:
+                  imperactive programming with procedure calls.
+
+
+        Function:
+                 (Applicative):Programming with function calls that avoid any global state..
+
+
+        function-level:
+              
+                 (Combinator):programming with no variables at all.
+
+
+       Object-oriented:
+               
+                 Programmming by define objects that send messages to each other
+
+
+      class -based:
+              
+                 objects get state and behavier based on membership in a class.
+
+
+      Protype-based:
+           
+                 objects get behaviouer based prototype object.
+
+
+      Event - driven:
+
+                 Programming with emitters and listencers of asynchronous actions.
+
+      Flow-Driven:
+
+                 Programming process communicating with each other over predifined channels.
+
+      Logic:
+                 (Rule-based):Programming by specifying a set of facts and rules.an engine infers the answer to question.
+   
+
+      Array:  
+                Programming with powerful array operators that usually make loops unnecessary.
+                  
+
+
+
+
+
+
+                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+            
+
